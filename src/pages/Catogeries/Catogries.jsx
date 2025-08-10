@@ -5,7 +5,7 @@ import { CatogeriesContext } from "../../context/categories.context";
 import { useContext } from "react";
 import Loading from "../../components/Loading/Loading";
 import SubCategory from "../../components/SubCategory/SubCategory";
-import categoryImage from "../../assets/images/Categoriesimage.png"
+import categoryImage from "../../assets/images/CategoriesImage.png"
 
 import NewsLetter from "../../components/NewLetter/NewsLetter";
 
