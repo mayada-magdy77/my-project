@@ -1,5 +1,5 @@
 import React from 'react'
-import HomeSlider from '../../components/homeSlider/homeSlider'
+import HomeSlider from '../../components/HomeSlider/HomeSlider'
 import HomeFeatures from '../../components/HomeFeatures/HomeFeatures'
 import HomeCategories from '../../components/HomeCategories/HomeCategories'
 import HomeDeals from '../../components/HomeDeals/HomeDeals'
